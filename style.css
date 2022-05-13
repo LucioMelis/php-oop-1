@@ -1,0 +1,15 @@
+.lm-width {
+    aspect-ratio: 1/1;
+}
+
+p {
+    font-weight: bold;
+}
+
+p span {
+    font-weight: normal;
+}
+
+.lm-margin>* {
+    margin-bottom: 5px !important;
+}
