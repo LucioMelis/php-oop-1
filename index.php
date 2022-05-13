@@ -15,7 +15,6 @@ include ('data.php');
     <title>PHP OOP</title>
 </head>
 <body>
-    <h1>PHP OOP</h1>
     <div class="container">
         <div class="row gap-2">
             <div  class="col-5 card lm-margin">
